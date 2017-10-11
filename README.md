@@ -6,6 +6,6 @@ This html page is created just for demonstration purposes. Here we shall be embe
   style="border: 0px;"
   src="https://public.tableau.com/profile/rkjha#!/vizhome/healthcarepoc_0/ClinicAnalytics?publish=yes"
   scrolling="no"
-  width="1200px"
+  width="1000px"
   height="756px">
 </iframe>
